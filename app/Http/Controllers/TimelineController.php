@@ -57,6 +57,5 @@ class TimelineController extends Controller
      */
     public function destroy(Timeline $timeline)
     {
-        //
     }
 }
